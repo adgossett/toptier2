@@ -11,7 +11,7 @@
 /*----------------------------------------------------------------------
 	- Google Map
 	
-	* Document Scroll		
+	* Document Scrol		
 		
 	* Document Ready
 		- Scrolling Navigation
